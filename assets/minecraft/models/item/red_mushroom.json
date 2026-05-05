@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/move_up",
+  "textures": {
+    "layer0": "minecraft:block/red_mushroom"
+  }
+}

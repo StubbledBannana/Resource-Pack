@@ -1,0 +1,14 @@
+{
+    "layers": {
+        "horse_body": [
+            {
+                "texture": "minecraft:iron"
+            }
+        ],
+        "nautilus_body": [
+            {
+                "texture": "minecraft:iron"
+            }
+        ]
+    }
+}
